@@ -1,3 +1,3 @@
 # Website
 
-Source code for my personal website, cami.codes
+Source code for my personal website, [cami.codes](cami.codes)
